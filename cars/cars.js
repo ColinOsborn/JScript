@@ -6,10 +6,15 @@ function displayCars() {
 
 function addCar(car) {
   cars.push(car);
-  displayCars()
+  displayCars();
 }
 
 function changeCar(position, newCar) {
   cars[position] = newCar;
-  displayCars()
+  displayCars();
+}
+
+function deleteCar(position) {
+  cars.splice(position, 1);
+  displayCars();
 }
