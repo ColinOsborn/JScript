@@ -25,3 +25,19 @@ var todoList = {
       this.displayTodos();
     }
 };
+
+
+// For loops
+// i = 0                             // initialization
+// do something, say "hey" if i < 3  // condition
+// increase i by 1                   // final-experession
+
+// for (initialization; condition; final-experession) {
+  // do the work you want to repeat here console.log("hey");
+// }
+
+// i = i + 1 === i++
+
+for (var i = 0; i < 3; i++) {
+  console.log("Hey");
+}
