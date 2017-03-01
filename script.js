@@ -41,3 +41,7 @@ var todoList = {
 for (var i = 0; i < 3; i++) {
   console.log("Hey");
 }
+
+for (var i = 0; i < 5; i++) {
+  console.log("Another day of coding, another day closer to the new life");
+}
