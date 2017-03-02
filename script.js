@@ -45,3 +45,7 @@ for (var i = 0; i < 3; i++) {
 for (var i = 0; i < 5; i++) {
   console.log("Another day of coding, another day closer to the new life");
 }
+
+for (var i = 0; i < 20; i++) {
+  console.log("Let's get on the bike");
+}
