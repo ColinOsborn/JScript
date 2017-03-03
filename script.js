@@ -49,3 +49,7 @@ for (var i = 0; i < 5; i++) {
 for (var i = 0; i < 20; i++) {
   console.log("Let's get on the bike");
 }
+
+for (var i = 0; i < 150; i++) {
+  console.log("Keep up those commits");
+}
